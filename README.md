@@ -17,7 +17,7 @@ This script transfers NFTs from one addresses to multiple addresses, but some co
 
 ### Second, In the index.js, you need to add a `address.csv` file which contains the addresses you want to transfer NFT to, in the same directory. After that, you need to set the Account address you send NFT from and the assetId of the NFT which will be sent.
 
-### Third, you will find several .txt files which indicates the addresses that opt-in as well as those do not.
+### After sending, you will find several .txt files which indicates the addresses that opt-in as well as those do not.
 
 ## Add NFTs
 
