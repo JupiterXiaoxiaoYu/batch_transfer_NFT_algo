@@ -7,6 +7,11 @@ These scripts come with no warranty whatsoever, so please use them responsibly.
 @algokittens' [algoNFTs repository](https://github.com/algokittens/algoNFTs) inspired this one, so definitely check it out, especially if you prefer Python over Nodejs!
 
 Also, please read up on Algorand Standard Assets (ASAs), so you can understand things like minimum balance increases and transaction fees: https://developer.algorand.org/docs/features/asa/
+## Batch Transfer NFTs
+
+`node index.js`
+
+This script transfers NFTs from one addresses to multiple addresses, but some configurations and parameters are needed before using this script.
 
 ## Add NFTs
 
